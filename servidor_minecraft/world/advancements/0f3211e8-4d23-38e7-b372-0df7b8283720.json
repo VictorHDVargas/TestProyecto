@@ -16,6 +16,7 @@
       "minecraft:river": "2025-07-31 02:36:24 +0000",
       "minecraft:lukewarm_ocean": "2025-07-31 02:50:10 +0000",
       "minecraft:stony_shore": "2025-08-01 07:55:41 +0000",
+      "minecraft:lush_caves": "2025-08-04 08:01:39 +0000",
       "minecraft:dripstone_caves": "2025-07-31 03:36:04 +0000",
       "minecraft:desert": "2025-08-01 07:57:29 +0000",
       "minecraft:jungle": "2025-07-31 03:12:56 +0000",
@@ -3123,9 +3124,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-04 08:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 06:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-04 08:02:15 +0000"
     },
     "done": true
   },
