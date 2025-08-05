@@ -1722,6 +1722,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "pufferfish_bucket": "2025-08-04 23:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-04 23:48:42 +0000"
@@ -1743,12 +1749,6 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-04 23:48:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "pufferfish_bucket": "2025-08-04 23:43:18 +0000"
     },
     "done": true
   },
