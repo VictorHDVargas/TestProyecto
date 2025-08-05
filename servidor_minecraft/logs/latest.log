@@ -52,3 +52,6 @@
 [03:26:47] [Server thread/INFO]: [Not Secure] <DonPepsi> ontai
 [03:49:56] [Server thread/INFO]: Diegojg[/127.245.14.106:53657] logged in with entity id 62989 at (-1828.938763044447, 63.0, -1913.9933031364387)
 [03:49:56] [Server thread/INFO]: Diegojg joined the game
+[04:00:58] [Server thread/INFO]: Villager cuf['Villager'/58438, l='ServerLevel[world]', x=280.56, y=67.02, z=757.16] died, message: 'Villager was slain by Zombie'
+[04:07:37] [Server thread/INFO]: AVich0 lost connection: Disconnected
+[04:07:37] [Server thread/INFO]: AVich0 left the game
