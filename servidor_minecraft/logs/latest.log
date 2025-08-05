@@ -1,10 +1,4 @@
-[22:54:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:54:44] [ServerMain/ERROR]: Failed to start the minecraft server
-bbf$a: /workspaces/TestProyecto/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at bbf$a.a(SourceFile:95) ~[server-1.21.8.jar:?]
-	at bbf.a(SourceFile:41) ~[server-1.21.8.jar:?]
-	at fcs$c.<init>(SourceFile:374) ~[server-1.21.8.jar:?]
-	at fcs.d(SourceFile:353) ~[server-1.21.8.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:140) ~[server-1.21.8.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:06:55] [Server thread/INFO]: Diegojg lost connection: Timed out
+[00:06:55] [Server thread/INFO]: Diegojg left the game
+[00:07:01] [Server thread/INFO]: Diegojg[/127.245.14.106:41915] logged in with entity id 86061 at (-1829.136288832623, 63.0, -1914.7781521784984)
+[00:07:01] [Server thread/INFO]: Diegojg joined the game
