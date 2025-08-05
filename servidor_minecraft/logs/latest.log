@@ -42,3 +42,5 @@
 [01:34:17] [Server thread/INFO]: AVich0 joined the game
 [01:37:17] [Server thread/INFO]: [Not Secure] <fofi> holaa
 [01:37:29] [Server thread/INFO]: [Not Secure] <AVich0> holaa
+[02:28:59] [Server thread/WARN]: AVich0 moved too quickly! 0.0017373115797090222,-10.490796109027968,-0.297059181974646
+[02:37:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=248, y=56, z=81} jb{x=248, y=57, z=81}
