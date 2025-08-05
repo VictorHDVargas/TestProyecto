@@ -432,6 +432,7 @@
       "cookie": "2025-08-02 21:36:02 +0000",
       "cooked_cod": "2025-08-03 04:50:13 +0000",
       "salmon": "2025-08-02 22:02:22 +0000",
+      "cod": "2025-08-05 03:50:09 +0000",
       "melon_slice": "2025-08-03 02:26:39 +0000",
       "cooked_salmon": "2025-08-03 03:03:13 +0000",
       "pumpkin_pie": "2025-08-04 02:50:17 +0000",
@@ -1821,6 +1822,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-04 23:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-08-05 03:46:52 +0000"
     },
     "done": true
   },
