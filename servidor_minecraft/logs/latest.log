@@ -37,3 +37,13 @@
 [20:36:37] [Server thread/INFO]: DonPepsi[/127.253.85.87:35753] logged in with entity id 20 at (153.6558396555204, 70.0, -10.53885269698878)
 [20:36:37] [Server thread/INFO]: DonPepsi joined the game
 [20:43:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=124, y=18, z=-32} jb{x=129, y=14, z=-31}
+[21:01:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=46, y=54, z=-51} jb{x=45, y=54, z=-71}
+[21:02:27] [Server thread/INFO]: DonPepsi has made the advancement [A Terrible Fortress]
+[21:05:53] [Server thread/INFO]: DonPepsi has made the advancement [Into Fire]
+[21:14:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=168, y=62, z=-104} jb{x=183, y=62, z=-102}
+[21:18:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=308, y=61, z=-35} jb{x=308, y=60, z=-35}
+[21:18:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=308, y=61, z=-35} jb{x=308, y=60, z=-35}
+[21:18:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=308, y=61, z=-35} jb{x=308, y=60, z=-35}
+[21:18:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=310, y=59, z=-30} jb{x=311, y=59, z=-31}
+[21:18:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=310, y=59, z=-30} jb{x=311, y=59, z=-31}
+[21:18:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=310, y=59, z=-30} jb{x=311, y=59, z=-31}
