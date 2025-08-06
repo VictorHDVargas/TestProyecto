@@ -376,3 +376,6 @@
 [05:21:12] [Server thread/INFO]: [Not Secure] <DonPepsi> tus kee
 [05:21:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=92, y=18, z=-33} jb{x=93, y=18, z=-33}
 [05:21:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=92, y=18, z=-33} jb{x=93, y=18, z=-33}
+[05:28:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-68, y=14, z=21} jb{x=-63, y=13, z=19}
+[05:29:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-100, y=15, z=18} jb{x=-102, y=14, z=21}
+[05:34:30] [Server thread/INFO]: DonPepsi has made the advancement [Hidden in the Depths]
