@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-08-06 03:54:10 +0000",
       "minecraft:flower_forest": "2025-08-06 01:58:53 +0000",
       "minecraft:beach": "2025-08-02 04:21:35 +0000",
       "minecraft:forest": "2025-08-03 05:58:00 +0000",
@@ -14,12 +15,14 @@
       "minecraft:sparse_jungle": "2025-08-02 02:33:11 +0000",
       "minecraft:river": "2025-08-02 02:50:30 +0000",
       "minecraft:lukewarm_ocean": "2025-08-02 04:21:44 +0000",
+      "minecraft:desert": "2025-08-06 03:53:02 +0000",
       "minecraft:jungle": "2025-08-02 04:12:46 +0000",
       "minecraft:ocean": "2025-08-06 01:52:10 +0000",
       "minecraft:sunflower_plains": "2025-08-06 01:57:42 +0000",
       "minecraft:savanna": "2025-08-03 22:53:31 +0000",
       "minecraft:windswept_savanna": "2025-08-03 05:46:56 +0000",
-      "minecraft:plains": "2025-08-03 05:38:53 +0000"
+      "minecraft:plains": "2025-08-03 05:38:53 +0000",
+      "minecraft:warm_ocean": "2025-08-06 03:45:06 +0000"
     },
     "done": false
   },
@@ -2027,15 +2030,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-08-06 03:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-08-06 03:23:23 +0000"
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-06 04:12:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-08-06 03:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-08-06 03:57:21 +0000"
     },
     "done": true
   },

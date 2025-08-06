@@ -46,6 +46,7 @@
       "minecraft:pillager": "2025-07-31 03:18:18 +0000",
       "minecraft:cave_spider": "2025-08-04 03:23:41 +0000",
       "minecraft:skeleton": "2025-07-31 03:15:23 +0000",
+      "minecraft:phantom": "2025-08-06 04:23:23 +0000",
       "minecraft:enderman": "2025-07-31 02:44:31 +0000",
       "minecraft:spider": "2025-07-31 04:16:31 +0000",
       "minecraft:zombie": "2025-07-31 01:31:16 +0000",
@@ -2712,6 +2713,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-08-06 03:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-08-06 03:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2025-08-06 03:46:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-08-06 03:18:09 +0000"
@@ -2721,6 +2740,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-08-06 03:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-08-06 03:46:11 +0000"
     },
     "done": true
   },
