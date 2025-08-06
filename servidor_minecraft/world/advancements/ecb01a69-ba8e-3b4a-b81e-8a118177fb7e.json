@@ -7,11 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-08-06 01:58:53 +0000",
       "minecraft:beach": "2025-08-02 04:21:35 +0000",
       "minecraft:forest": "2025-08-03 05:58:00 +0000",
       "minecraft:sparse_jungle": "2025-08-02 02:33:11 +0000",
       "minecraft:jungle": "2025-08-02 04:12:46 +0000",
       "minecraft:ocean": "2025-08-06 01:52:10 +0000",
+      "minecraft:sunflower_plains": "2025-08-06 01:57:42 +0000",
       "minecraft:river": "2025-08-02 02:50:30 +0000",
       "minecraft:lukewarm_ocean": "2025-08-02 04:21:44 +0000",
       "minecraft:savanna": "2025-08-03 22:53:31 +0000",
@@ -1931,6 +1933,24 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-08-05 22:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-06 02:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-06 02:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-06 02:03:50 +0000"
     },
     "done": true
   },
