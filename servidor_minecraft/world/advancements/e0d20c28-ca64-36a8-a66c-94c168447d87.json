@@ -574,9 +574,11 @@
       "minecraft:witch": "2025-07-31 19:39:50 +0000",
       "minecraft:wither_skeleton": "2025-08-06 21:03:55 +0000",
       "minecraft:hoglin": "2025-08-06 05:06:28 +0000",
+      "minecraft:piglin": "2025-08-06 21:39:53 +0000",
       "minecraft:enderman": "2025-07-31 02:58:34 +0000",
       "minecraft:magma_cube": "2025-08-06 21:12:44 +0000",
       "minecraft:spider": "2025-07-30 21:23:14 +0000",
+      "minecraft:piglin_brute": "2025-08-06 21:39:56 +0000",
       "minecraft:zombie": "2025-07-30 20:57:01 +0000",
       "minecraft:creeper": "2025-07-31 02:58:59 +0000",
       "minecraft:drowned": "2025-08-02 22:59:53 +0000",
@@ -2722,9 +2724,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-08-06 05:06:00 +0000",
       "minecraft:nether_wastes": "2025-08-06 05:28:58 +0000",
-      "minecraft:soul_sand_valley": "2025-08-06 21:20:45 +0000"
+      "minecraft:soul_sand_valley": "2025-08-06 21:20:45 +0000",
+      "minecraft:basalt_deltas": "2025-08-06 21:43:50 +0000",
+      "minecraft:warped_forest": "2025-08-06 21:43:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -3068,6 +3072,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-08-06 21:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-08-06 21:02:12 +0000"
@@ -3149,6 +3159,12 @@
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-08-06 21:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-06 21:38:07 +0000"
     },
     "done": true
   },
