@@ -2684,15 +2684,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-08-06 03:39:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-08-06 03:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-06 03:39:50 +0000"
     },
     "done": true
   },
