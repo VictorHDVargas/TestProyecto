@@ -1,7 +1,19 @@
 [
   {
+    "uuid": "ff9db988-fa98-3a68-bad5-d16836d50417",
+    "name": "God",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "e0d20c28-ca64-36a8-a66c-94c168447d87",
     "name": "DonPepsi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bc27afd7-6889-4811-97c9-135ee46cdabc",
+    "name": "God",
     "level": 4,
     "bypassesPlayerLimit": false
   },
