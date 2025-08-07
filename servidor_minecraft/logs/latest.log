@@ -42,3 +42,9 @@
 [20:18:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [20:58:44] [Server thread/INFO]: fofi[/127.237.38.199:57073] logged in with entity id 3254 at (-99.69999998807907, 63.0, -299.3616149080871)
 [20:58:44] [Server thread/INFO]: fofi joined the game
+[21:05:15] [Server thread/INFO]: fofi lost connection: Timed out
+[21:05:15] [Server thread/INFO]: fofi left the game
+[21:05:15] [Server thread/WARN]: handleDisconnection() called twice
+[21:06:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:10:55] [Server thread/INFO]: fofi[/127.237.38.199:35563] logged in with entity id 4238 at (-99.06514632250179, 63.0, -299.69999998807907)
+[21:10:55] [Server thread/INFO]: fofi joined the game
