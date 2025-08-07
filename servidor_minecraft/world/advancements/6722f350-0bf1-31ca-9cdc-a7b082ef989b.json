@@ -2788,6 +2788,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-08-07 03:51:03 +0000",
       "minecraft:basalt_deltas": "2025-08-07 03:04:01 +0000",
       "minecraft:warped_forest": "2025-08-07 03:09:33 +0000"
     },
@@ -2901,6 +2902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 03:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-07 03:34:12 +0000"
@@ -2910,6 +2917,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-08-07 03:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-07 03:54:51 +0000"
     },
     "done": true
   },
