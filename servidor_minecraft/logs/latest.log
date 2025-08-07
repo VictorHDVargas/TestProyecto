@@ -57,3 +57,10 @@
 [22:25:50] [Server thread/INFO]: DonPepsi joined the game
 [22:28:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-178, y=49, z=-288} jb{x=-178, y=48, z=-288}
 [22:28:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-178, y=48, z=-287} jb{x=-178, y=49, z=-287}
+[22:41:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-177, y=48, z=-290} jb{x=-177, y=49, z=-290}
+[22:41:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-176, y=48, z=-288} jb{x=-176, y=49, z=-288}
+[22:41:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-177, y=48, z=-295} jb{x=-177, y=49, z=-295}
+[22:55:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-60, y=61, z=-274} jb{x=-60, y=62, z=-274}
+[22:56:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-60, y=57, z=-266} jb{x=-60, y=58, z=-266}
+[22:56:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-58, y=54, z=-265} jb{x=-59, y=55, z=-265}
+[22:56:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-58, y=54, z=-264} jb{x=-58, y=55, z=-264}
