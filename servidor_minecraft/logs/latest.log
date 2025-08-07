@@ -53,3 +53,7 @@
 [21:46:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [21:51:03] [Server thread/INFO]: fofi[/127.237.38.199:54617] logged in with entity id 10133 at (-100.67254541871658, 63.0, -299.15411395874537)
 [21:51:03] [Server thread/INFO]: fofi joined the game
+[22:25:50] [Server thread/INFO]: DonPepsi[/127.237.38.199:53161] logged in with entity id 16601 at (142.2124424800438, 91.0, -28.148089259490106)
+[22:25:50] [Server thread/INFO]: DonPepsi joined the game
+[22:28:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-178, y=49, z=-288} jb{x=-178, y=48, z=-288}
+[22:28:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-178, y=48, z=-287} jb{x=-178, y=49, z=-287}
