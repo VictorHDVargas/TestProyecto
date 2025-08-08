@@ -38,3 +38,5 @@
 [04:40:03] [Server thread/INFO]: DonPepsi joined the game
 [05:02:59] [Server thread/INFO]: [DonPepsi: Set own game mode to Spectator Mode]
 [05:03:49] [Server thread/INFO]: [DonPepsi: Set own game mode to Survival Mode]
+[05:26:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-55, y=56, z=-293} jb{x=-55, y=57, z=-293}
+[05:27:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-18, y=61, z=-278} jb{x=-19, y=60, z=-277}
