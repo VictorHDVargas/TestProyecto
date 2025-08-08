@@ -49,3 +49,7 @@
 [20:32:43] [Server thread/WARN]: Oak Boat (vehicle of fofi) moved wrongly! 0.501054230686105
 [20:32:43] [Server thread/WARN]: Oak Boat (vehicle of fofi) moved wrongly! 0.5012044937627733
 [20:32:43] [Server thread/WARN]: Oak Boat (vehicle of fofi) moved wrongly! 0.5012044937627733
+[21:01:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-56, y=56, z=-295} jb{x=-56, y=57, z=-295}
+[21:02:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-47, y=55, z=-274} jb{x=-45, y=53, z=-273}
+[21:02:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-47, y=55, z=-274} jb{x=-45, y=53, z=-273}
+[21:02:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-47, y=55, z=-274} jb{x=-45, y=53, z=-273}
