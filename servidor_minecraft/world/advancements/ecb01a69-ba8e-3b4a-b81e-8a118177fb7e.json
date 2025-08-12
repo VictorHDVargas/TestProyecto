@@ -24,6 +24,8 @@
       "minecraft:jungle": "2025-08-02 04:12:46 +0000",
       "minecraft:ocean": "2025-08-06 01:52:10 +0000",
       "minecraft:sunflower_plains": "2025-08-06 01:57:42 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-12 21:37:11 +0000",
+      "minecraft:windswept_hills": "2025-08-12 21:35:06 +0000",
       "minecraft:savanna": "2025-08-03 22:53:31 +0000",
       "minecraft:windswept_savanna": "2025-08-03 05:46:56 +0000",
       "minecraft:plains": "2025-08-03 05:38:53 +0000",
@@ -2204,6 +2206,54 @@
   "minecraft:recipes/tools/pink_bundle": {
     "criteria": {
       "has_pink_dye": "2025-08-12 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-12 21:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-12 21:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-12 21:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-12 21:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-08-12 21:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-08-12 21:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-12 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-12 21:56:47 +0000"
     },
     "done": true
   },
