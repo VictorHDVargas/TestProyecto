@@ -41,3 +41,11 @@
 [21:55:03] [Server thread/WARN]: fofi moved too quickly! 7.544228238773485,0.41999998688697815,-7.157420192382233
 [21:55:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
 [21:55:42] [Server thread/INFO]: Villager cuf['Villager'/3713, l='ServerLevel[world]', x=-3136.70, y=63.00, z=-1931.67] died, message: 'Villager was slain by Zombie'
+[22:37:21] [Server thread/WARN]: Oak Boat (vehicle of fofi) moved wrongly! 0.5978107373562125
+[22:37:21] [Server thread/WARN]: Oak Boat (vehicle of fofi) moved wrongly! 0.3877233212056126
+[22:45:51] [Server thread/INFO]: DonPepsi[/127.237.38.199:36349] logged in with entity id 23787 at (173.68169544175294, -58.0, -165.14933486091056)
+[22:45:51] [Server thread/INFO]: DonPepsi joined the game
+[22:48:15] [Server thread/INFO]: [DonPepsi: Set own game mode to Spectator Mode]
+[22:48:29] [Server thread/INFO]: [DonPepsi: Set own game mode to Survival Mode]
+[22:48:36] [Server thread/INFO]: [DonPepsi: Set own game mode to Spectator Mode]
+[22:49:01] [Server thread/INFO]: [DonPepsi: Set own game mode to Survival Mode]
