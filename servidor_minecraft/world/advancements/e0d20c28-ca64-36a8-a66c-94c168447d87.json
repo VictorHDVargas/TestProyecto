@@ -3587,21 +3587,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-08-12 23:16:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-08-12 23:10:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_black_wool": "2025-08-12 23:28:09 +0000"
+      "has_log": "2025-08-12 23:10:08 +0000"
     },
     "done": true
   },
@@ -3611,33 +3605,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-08-12 23:16:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-12 23:10:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-08-12 23:16:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-08-12 23:11:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-08-12 23:28:09 +0000"
     },
     "done": true
   },
@@ -3653,12 +3623,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-08-12 23:16:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-12 23:10:35 +0000"
@@ -3671,51 +3635,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-12 23:10:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-08-12 23:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-08-12 23:16:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-12 23:10:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-08-12 23:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-08-12 23:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-08-12 23:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-12 23:11:20 +0000"
     },
     "done": true
   },
@@ -3734,6 +3656,102 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-12 23:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-12 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-12 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-12 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-12 23:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-12 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-12 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-08-12 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-12 23:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-12 23:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-12 23:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-12 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-12 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-12 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-08-12 23:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-08-12 23:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-08-12 23:40:11 +0000"
     },
     "done": true
   },
