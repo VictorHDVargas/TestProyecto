@@ -1,50 +1,49 @@
-[02:54:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:54:13] [ServerMain/INFO]: Loaded 1407 recipes
-[02:54:13] [ServerMain/INFO]: Loaded 1520 advancements
-[02:54:13] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:54:13] [Server thread/INFO]: Loading properties
-[02:54:13] [Server thread/INFO]: Default game type: SURVIVAL
-[02:54:13] [Server thread/INFO]: Generating keypair
-[02:54:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:54:13] [Server thread/INFO]: Using epoll channel type
-[02:54:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:54:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:54:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:54:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:54:13] [Server thread/INFO]: Preparing level "world"
-[02:54:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:54:24] [Server thread/INFO]: Time elapsed: 9754 ms
-[02:54:24] [Server thread/INFO]: Done (10.290s)! For help, type "help"
-[02:55:21] [Server thread/INFO]: DonPepsi[/127.237.38.199:37933] logged in with entity id 31 at (180.39711467375187, 97.0, -70.19600847661899)
-[02:55:21] [Server thread/INFO]: DonPepsi joined the game
-[02:55:31] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[02:55:31] [Server thread/INFO]: DonPepsi left the game
-[02:56:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:58:31] [Server thread/INFO]: fofi[/127.237.38.199:50375] logged in with entity id 307 at (-108.36140240669714, 63.0, -289.91859745813724)
-[02:58:31] [Server thread/INFO]: fofi joined the game
-[03:30:42] [Server thread/INFO]: DonPepsi[/127.237.38.199:54607] logged in with entity id 4555 at (180.39711467375187, 97.0, -70.19600847661899)
-[03:30:42] [Server thread/INFO]: DonPepsi joined the game
-[03:42:09] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[03:42:10] [Server thread/INFO]: DonPepsi left the game
-[03:42:15] [Server thread/INFO]: DonPepsi[/127.237.38.199:60731] logged in with entity id 8911 at (163.6372422830891, -58.0, -173.69999998807907)
-[03:42:15] [Server thread/INFO]: DonPepsi joined the game
+[20:51:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:51:17] [ServerMain/INFO]: Loaded 1407 recipes
+[20:51:17] [ServerMain/INFO]: Loaded 1520 advancements
+[20:51:17] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:51:17] [Server thread/INFO]: Loading properties
+[20:51:17] [Server thread/INFO]: Default game type: SURVIVAL
+[20:51:17] [Server thread/INFO]: Generating keypair
+[20:51:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:51:17] [Server thread/INFO]: Using epoll channel type
+[20:51:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:51:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:51:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:51:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:51:17] [Server thread/INFO]: Preparing level "world"
+[20:51:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:27] [Server thread/INFO]: Time elapsed: 9227 ms
+[20:51:27] [Server thread/INFO]: Done (9.731s)! For help, type "help"
+[20:52:06] [Server thread/INFO]: fofi[/127.237.38.199:32869] logged in with entity id 21 at (-101.5, 63.0, -298.5)
+[20:52:06] [Server thread/INFO]: fofi joined the game
+[21:01:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[21:11:53] [Server thread/INFO]: fofi lost connection: Timed out
+[21:11:53] [Server thread/INFO]: fofi left the game
+[21:11:53] [Server thread/WARN]: handleDisconnection() called twice
+[21:12:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:13:39] [Server thread/INFO]: fofi[/127.237.38.199:39655] logged in with entity id 7410 at (-2799.4817031880016, 63.0, -272.54682250461843)
+[21:13:39] [Server thread/INFO]: fofi joined the game
+[21:20:39] [Server thread/INFO]: fofi lost connection: Timed out
+[21:20:39] [Server thread/INFO]: fofi left the game
+[21:20:58] [Server thread/INFO]: fofi[/127.237.38.199:33009] logged in with entity id 8700 at (-2800.670233616617, 63.0, -272.2477107875879)
+[21:20:58] [Server thread/INFO]: fofi joined the game

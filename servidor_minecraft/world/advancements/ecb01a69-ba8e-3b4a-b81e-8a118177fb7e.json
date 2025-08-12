@@ -11,12 +11,16 @@
       "minecraft:flower_forest": "2025-08-06 01:58:53 +0000",
       "minecraft:beach": "2025-08-02 04:21:35 +0000",
       "minecraft:forest": "2025-08-03 05:58:00 +0000",
+      "minecraft:taiga": "2025-08-12 21:03:11 +0000",
       "minecraft:mangrove_swamp": "2025-08-06 02:46:29 +0000",
       "minecraft:sparse_jungle": "2025-08-02 02:33:11 +0000",
       "minecraft:river": "2025-08-02 02:50:30 +0000",
       "minecraft:lukewarm_ocean": "2025-08-02 04:21:44 +0000",
+      "minecraft:snowy_plains": "2025-08-12 21:00:35 +0000",
       "minecraft:dripstone_caves": "2025-08-07 00:23:29 +0000",
+      "minecraft:snowy_taiga": "2025-08-12 21:01:20 +0000",
       "minecraft:desert": "2025-08-06 03:53:02 +0000",
+      "minecraft:frozen_river": "2025-08-12 21:01:46 +0000",
       "minecraft:jungle": "2025-08-02 04:12:46 +0000",
       "minecraft:ocean": "2025-08-06 01:52:10 +0000",
       "minecraft:sunflower_plains": "2025-08-06 01:57:42 +0000",
@@ -482,7 +486,8 @@
       "minecraft:chicken": "2025-08-02 02:59:47 +0000",
       "minecraft:pig": "2025-08-02 03:00:34 +0000",
       "minecraft:turtle": "2025-08-02 23:18:04 +0000",
-      "minecraft:sheep": "2025-08-04 06:37:17 +0000"
+      "minecraft:sheep": "2025-08-04 06:37:17 +0000",
+      "minecraft:rabbit": "2025-08-12 20:54:44 +0000"
     },
     "done": false
   },
@@ -2145,6 +2150,60 @@
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_turtle_scute": "2025-08-07 22:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2025-08-12 20:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_pink_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-12 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-12 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-08-12 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-08-12 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-12 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-08-12 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-12 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2025-08-12 21:05:17 +0000"
     },
     "done": true
   },
