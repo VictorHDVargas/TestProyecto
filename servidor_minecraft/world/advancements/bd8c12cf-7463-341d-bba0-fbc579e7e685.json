@@ -10,6 +10,7 @@
       "minecraft:badlands": "2025-07-31 00:29:41 +0000",
       "minecraft:flower_forest": "2025-08-05 02:19:45 +0000",
       "minecraft:beach": "2025-08-05 02:24:16 +0000",
+      "minecraft:desert": "2025-08-13 05:13:16 +0000",
       "minecraft:forest": "2025-07-31 00:28:08 +0000",
       "minecraft:sparse_jungle": "2025-07-31 00:23:18 +0000",
       "minecraft:jungle": "2025-07-31 00:26:38 +0000",
@@ -3141,6 +3142,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-08-13 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-13 05:12:30 +0000"
     },
     "done": true
   },
