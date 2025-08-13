@@ -1,144 +1,45 @@
-[00:30:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:30:34] [ServerMain/INFO]: Loaded 1407 recipes
-[00:30:34] [ServerMain/INFO]: Loaded 1520 advancements
-[00:30:34] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[00:30:34] [Server thread/INFO]: Loading properties
-[00:30:34] [Server thread/INFO]: Default game type: SURVIVAL
-[00:30:34] [Server thread/INFO]: Generating keypair
-[00:30:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:30:35] [Server thread/INFO]: Using epoll channel type
-[00:30:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:30:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:30:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:30:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:30:35] [Server thread/INFO]: Preparing level "world"
-[00:30:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:45] [Server thread/INFO]: Time elapsed: 9069 ms
-[00:30:45] [Server thread/INFO]: Done (9.641s)! For help, type "help"
-[00:31:21] [Server thread/INFO]: fofi[/127.237.38.199:55005] logged in with entity id 19 at (-1605.0690124720804, 66.0, -1085.3484560340405)
-[00:31:21] [Server thread/INFO]: fofi joined the game
-[00:46:41] [Server thread/INFO]: AVich0[/127.152.186.216:50139] logged in with entity id 5354 at (-7.00083976367514, 17.0, -489.5784197577852)
-[00:46:41] [Server thread/INFO]: AVich0 joined the game
-[00:46:59] [Server thread/INFO]: [Not Secure] <fofi> holaa
-[00:47:07] [Server thread/INFO]: [Not Secure] <AVich0> holaa
-[01:14:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-54, y=90, z=115} jb{x=22, y=63, z=123}
-[01:14:36] [Server thread/INFO]: AVich0 has made the advancement [A Terrible Fortress]
-[01:16:09] [Server thread/INFO]: AVich0 has made the advancement [Into Fire]
-[01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
-[01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
-[01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
-[01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
-[01:31:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=216, y=15, z=82} jb{x=216, y=15, z=105}
-[01:52:37] [Server thread/INFO]: AVich0 has completed the challenge [Hot Tourist Destinations]
-[01:53:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-318, y=16, z=186} jb{x=-318, y=15, z=186}
-[02:05:48] [Server thread/INFO]: DonPepsi[/127.237.38.199:51247] logged in with entity id 51140 at (-1595.300000011921, 66.0, -1138.300000011921)
-[02:05:48] [Server thread/INFO]: DonPepsi joined the game
-[02:06:22] [Server thread/INFO]: [Not Secure] <DonPepsi> ola
-[02:06:26] [Server thread/INFO]: [Not Secure] <AVich0> hola
-[02:06:31] [Server thread/INFO]: [Not Secure] <DonPepsi> pillaste
-[02:06:33] [Server thread/INFO]: [Not Secure] <DonPepsi> como volver
-[02:06:45] [Server thread/INFO]: [Not Secure] <AVich0> ahora voy a volver
-[02:06:51] [Server thread/INFO]: [Not Secure] <DonPepsi> ay
-[02:06:53] [Server thread/INFO]: [Not Secure] <DonPepsi> aya
-[02:07:21] [Server thread/INFO]: [Not Secure] <AVich0> pille 40 cosas de netherite
-[02:07:25] [Server thread/INFO]: [Not Secure] <DonPepsi> weeeee
-[02:07:37] [Server thread/INFO]: [Not Secure] <DonPepsi> ahora hay que tener una wea de placa de mejora
-[02:07:46] [Server thread/INFO]: [Not Secure] <DonPepsi> yo la pille y se tiene que duplicar con diamantes
-[02:08:11] [Server thread/INFO]: [Not Secure] <DonPepsi> con 7 diamantes y una de esas piedras rojas del nether
-[02:10:55] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[02:10:55] [Server thread/INFO]: DonPepsi left the game
-[02:11:01] [Server thread/INFO]: DonPepsi[/127.237.38.199:44189] logged in with entity id 57555 at (-384.80711685553956, 62.110764312744145, -310.0441236700824)
-[02:11:01] [Server thread/INFO]: DonPepsi joined the game
-[02:25:01] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[02:25:01] [Server thread/INFO]: DonPepsi left the game
-[02:29:36] [Server thread/INFO]: DonPepsi[/127.237.38.199:54065] logged in with entity id 66270 at (118.87359084418019, 88.5, -30.846324080197185)
-[02:29:36] [Server thread/INFO]: DonPepsi joined the game
-[02:29:41] [Server thread/INFO]: [Not Secure] <AVich0> pollo
-[02:29:52] [Server thread/INFO]: [Not Secure] <AVich0> donde esta tu portal?
-[02:30:04] [Server thread/INFO]: [Not Secure] <DonPepsi> esperame
-[02:30:06] [Server thread/INFO]: [Not Secure] <DonPepsi> voy a entra pa alla
-[02:30:26] [Server thread/INFO]: [Not Secure] <DonPepsi> aca abajo
-[02:30:29] [Server thread/INFO]: [Not Secure] <DonPepsi> o arriba
-[02:30:30] [Server thread/INFO]: [Not Secure] <DonPepsi> que diga
-[02:30:34] [Server thread/INFO]: [Not Secure] <DonPepsi> cuidao si
-[02:30:37] [Server thread/INFO]: [Not Secure] <DonPepsi> hay lava
-[02:31:13] [Server thread/INFO]: [Not Secure] <AVich0> pero dondo?
-[02:32:03] [Server thread/INFO]: [Not Secure] <DonPepsi> 19 85 -12
-[02:32:32] [Server thread/INFO]: [Not Secure] <AVich0> veo tu nombre
-[02:32:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=21, y=74, z=-62} jb{x=22, y=78, z=-58}
-[02:32:47] [Server thread/INFO]: [Not Secure] <DonPepsi> OLAA
-[02:32:56] [Server thread/INFO]: [Not Secure] <AVich0> kiu
-[02:33:26] [Server thread/INFO]: [Not Secure] <DonPepsi> te gusta mi auto
-[02:33:38] [Server thread/INFO]: [Not Secure] <DonPepsi> sube mira
-[02:33:54] [Server thread/INFO]: [Not Secure] <AVich0> como?
-[02:33:55] [Server thread/INFO]: [Not Secure] <DonPepsi> calmao
-[02:34:25] [Server thread/INFO]: [Not Secure] <DonPepsi> como te subirias a cualquier otra cosa
-[02:34:34] [Server thread/INFO]: [Not Secure] <DonPepsi> con click derecho
-[02:34:58] [Server thread/INFO]: [Not Secure] <AVich0> wenaaa
-[02:35:05] [Server thread/INFO]: [Not Secure] <DonPepsi> puta no lo puedo soltar jajaj
-[02:35:07] [Server thread/INFO]: [Not Secure] <DonPepsi> ayudame
-[02:35:12] [Server thread/INFO]: [Not Secure] <AVich0> jjaaja
-[02:35:36] [Server thread/INFO]: [Not Secure] <DonPepsi> wena
-[02:36:19] [Server thread/INFO]: [Not Secure] <DonPepsi> se puede construir arriba de este wn
-[02:36:21] [Server thread/INFO]: [Not Secure] <DonPepsi> osea
-[02:36:27] [Server thread/INFO]: [Not Secure] <DonPepsi> como en creativo, volar pa construir
-[02:36:43] [Server thread/INFO]: [Not Secure] <AVich0> la wea wena
-[02:37:09] [Server thread/INFO]: [Not Secure] <DonPepsi> pa aca esta tu casa hoyo o no
-[02:37:27] [Server thread/INFO]: [Not Secure] <AVich0> para la aldea
-[02:38:28] [Server thread/INFO]: [Not Secure] <DonPepsi> te dejo aca en la aldea
-[02:38:30] [Server thread/INFO]: [Not Secure] <AVich0> en el corral con un arbol
-[02:39:08] [Server thread/INFO]: [Not Secure] <DonPepsi> aaaa
-[02:39:10] [Server thread/INFO]: [Not Secure] <DonPepsi> mira el wn
-[02:39:14] [Server thread/INFO]: [Not Secure] <AVich0> jajaja
-[02:39:45] [Server thread/INFO]: [Not Secure] <DonPepsi> kiu
-[02:39:52] [Server thread/INFO]: [Not Secure] <DonPepsi> we caleta de ladrillo
-[02:40:07] [Server thread/INFO]: [Not Secure] <DonPepsi> y tremenda werta
-[02:40:38] [Server thread/INFO]: [Not Secure] <AVich0> sii
-[02:50:18] [Server thread/INFO]: fofi fell from a high place
-[03:11:52] [Server thread/INFO]: [Not Secure] <AVich0> pollo donde encontraste esa wea para mejorar la armadura?
-[03:11:57] [Server thread/INFO]: [Not Secure] <DonPepsi> en un bastion
-[03:12:04] [Server thread/INFO]: [Not Secure] <DonPepsi> pero ven a mi casa a buscar una y la duplicas
-[03:12:07] [Server thread/INFO]: [Not Secure] <DonPepsi> pa que andar webiando
-[03:18:52] [Server thread/INFO]: [Not Secure] <DonPepsi> esta en minerales
-[03:20:00] [Server thread/INFO]: [Not Secure] <AVich0> grax
-[03:20:03] [Server thread/INFO]: [Not Secure] <DonPepsi> de nadaa
-[03:53:57] [Server thread/WARN]: AVich0 moved too quickly! 0.09007272686662304,0.0,10.101803412085928
-[04:12:26] [Server thread/INFO]: [Not Secure] <DonPepsi> q haces vicho
-[04:14:40] [Server thread/INFO]: [Not Secure] <AVich0> aqui con los aldeanos
-[04:14:43] [Server thread/INFO]: [Not Secure] <DonPepsi> aaa
-[04:19:02] [Server thread/INFO]: [Not Secure] <DonPepsi> viste tu horario?
-[04:37:24] [Server thread/INFO]: [Not Secure] <fofi> me desconectare
-[04:37:33] [Server thread/INFO]: [Not Secure] <fofi> chao vichoo
-[04:37:39] [Server thread/INFO]: [Not Secure] <fofi> chao pollo
-[04:37:41] [Server thread/INFO]: [Not Secure] <DonPepsi> xao mor
-[04:37:45] [Server thread/INFO]: [Not Secure] <AVich0> chao
-[04:37:52] [Server thread/INFO]: fofi lost connection: Disconnected
-[04:37:52] [Server thread/INFO]: fofi left the game
-[04:39:32] [Server thread/INFO]: DonPepsi was slain by Zombie
-[04:40:08] [Server thread/INFO]: [DonPepsi: Set own game mode to Creative Mode]
-[04:40:11] [Server thread/INFO]: [DonPepsi: Set own game mode to Spectator Mode]
-[04:40:53] [Server thread/INFO]: [DonPepsi: Teleported DonPepsi to AVich0]
-[04:41:22] [Server thread/INFO]: [DonPepsi: Set own game mode to Creative Mode]
-[04:41:24] [Server thread/INFO]: [DonPepsi: Set own game mode to Spectator Mode]
-[04:41:25] [Server thread/INFO]: [DonPepsi: Set own game mode to Survival Mode]
-[05:31:44] [Server thread/INFO]: AVich0 has completed the challenge [Cover Me in Debris]
-[05:31:53] [Server thread/INFO]: [Not Secure] <DonPepsi> weeee
+[17:50:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:50:59] [ServerMain/INFO]: Loaded 1407 recipes
+[17:50:59] [ServerMain/INFO]: Loaded 1520 advancements
+[17:50:59] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:50:59] [Server thread/INFO]: Loading properties
+[17:50:59] [Server thread/INFO]: Default game type: SURVIVAL
+[17:50:59] [Server thread/INFO]: Generating keypair
+[17:50:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:50:59] [Server thread/INFO]: Using epoll channel type
+[17:50:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:50:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:50:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:50:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:50:59] [Server thread/INFO]: Preparing level "world"
+[17:51:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Server thread/INFO]: Time elapsed: 9133 ms
+[17:51:09] [Server thread/INFO]: Done (9.604s)! For help, type "help"
+[17:51:58] [Server thread/INFO]: DonPepsi[/127.237.38.199:60989] logged in with entity id 21 at (183.99392812942665, 63.0, 32.62056553644449)
+[17:51:58] [Server thread/INFO]: DonPepsi joined the game
+[18:00:58] [Server thread/INFO]: fofi[/127.237.38.199:45303] logged in with entity id 3924 at (183.45039974710116, 58.0, 36.28204072376809)
+[18:00:58] [Server thread/INFO]: fofi joined the game
+[18:09:04] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[18:09:04] [Server thread/INFO]: DonPepsi left the game
+[18:09:39] [Server thread/INFO]: fofi lost connection: Disconnected
+[18:09:39] [Server thread/INFO]: fofi left the game
+[18:10:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
