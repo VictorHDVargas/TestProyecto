@@ -40,3 +40,10 @@
 [00:46:41] [Server thread/INFO]: AVich0 joined the game
 [00:46:59] [Server thread/INFO]: [Not Secure] <fofi> holaa
 [00:47:07] [Server thread/INFO]: [Not Secure] <AVich0> holaa
+[01:14:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-54, y=90, z=115} jb{x=22, y=63, z=123}
+[01:14:36] [Server thread/INFO]: AVich0 has made the advancement [A Terrible Fortress]
+[01:16:09] [Server thread/INFO]: AVich0 has made the advancement [Into Fire]
+[01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
+[01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
+[01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
+[01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
