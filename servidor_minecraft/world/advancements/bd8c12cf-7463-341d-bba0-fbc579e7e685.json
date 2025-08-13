@@ -3271,6 +3271,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-08-13 05:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-08-13 01:18:16 +0000"
