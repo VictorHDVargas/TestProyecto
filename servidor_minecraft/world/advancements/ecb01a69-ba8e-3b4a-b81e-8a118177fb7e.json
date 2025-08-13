@@ -2353,6 +2353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-13 04:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/dye_magenta_harness": {
     "criteria": {
       "has_needed_dye": "2025-08-13 03:58:25 +0000"
@@ -2380,6 +2386,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-13 03:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-08-13 04:11:06 +0000"
     },
     "done": true
   },
