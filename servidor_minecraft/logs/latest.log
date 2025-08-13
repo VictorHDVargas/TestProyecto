@@ -48,3 +48,5 @@
 [01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
 [01:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-32, y=32, z=80} jb{x=-32, y=33, z=81}
 [01:31:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=216, y=15, z=82} jb{x=216, y=15, z=105}
+[01:52:37] [Server thread/INFO]: AVich0 has completed the challenge [Hot Tourist Destinations]
+[01:53:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-318, y=16, z=186} jb{x=-318, y=15, z=186}
