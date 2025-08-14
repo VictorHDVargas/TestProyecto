@@ -79,3 +79,5 @@
 [01:24:54] [Server thread/INFO]: DonPepsi lost connection: Timed out
 [01:24:54] [Server thread/INFO]: DonPepsi left the game
 [01:24:54] [Server thread/WARN]: handleDisconnection() called twice
+[01:44:14] [Server thread/INFO]: fofi lost connection: Disconnected
+[01:44:14] [Server thread/INFO]: fofi left the game
